@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">自动化辅助</string>
+    <string name="label">微博自动化辅助服务</string>
+    <string name="accessibility_service_description">微博自动化测试辅助工具,用来处理微博不能处理的系统弹窗~</string>
+</resources>
