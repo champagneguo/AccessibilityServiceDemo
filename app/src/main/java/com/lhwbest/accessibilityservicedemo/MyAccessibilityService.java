@@ -79,6 +79,10 @@ public class MyAccessibilityService extends AccessibilityService {
                 findAndPerformActionButton("确认");
             }
             break;
+            case "MIX 2":
+                findAndPerformActionButton("确定");
+                break;
+
         }
     }
 
